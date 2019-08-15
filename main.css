@@ -1,0 +1,9 @@
+body
+{
+        	background-color: powderblue;
+        	background-image: url("girl_on_tank.jpg");
+        	background-repeat: no-repeat;
+        	background-position:center;
+        	background-attachment: fixed;
+        	background-size:auto;
+}
